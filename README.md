@@ -1,5 +1,54 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Python projects involving API data extraction and data analysis<br><br>Beginner machine learning projects (text-based stress prediction)<br><br>Frontend web development projects using HTML, CSS, JavaScript, and React<br><br>Improving problem-solving skills with DSA<br><br>👯 I’m looking to collaborate on<br><br>Frontend web projects (React-based websites or dashboards)<br><br>Beginner-friendly ML / data science projects<br><br>Python automation or API-based applications<br><br>Open-source projects for college students<br><br>🤝 I’m looking for help with<br><br>Machine learning concepts and model optimization<br><br>Backend integration for full-stack projects<br><br>Writing and publishing research papers<br><br>🌱 I’m currently learning<br><br>Machine Learning fundamentals<br><br>Python libraries: NumPy, Pandas, Scikit-learn<br><br>Text feature extraction (TF-IDF, vectorizers)<br><br>Advanced React concepts and best practices<br><br>💬 Ask me about<br><br>Frontend development (HTML, CSS, JavaScript, React)<br><br>Python basics and API data extraction<br><br>Data handling with Pandas<br><br>Beginner ML concepts
+💫 About Me
+
+B.Tech Computer Science Engineering (2024–2028) student with hands-on experience in Python, Machine Learning, and Frontend Web Development. Passionate about building practical projects, improving problem-solving skills, and collaborating on meaningful tech solutions.
+
+🔭 Currently Working On
+
+Python projects for API data extraction & analysis
+
+Beginner ML projects (text-based stress prediction)
+
+Frontend development using HTML, CSS, JavaScript & React
+
+Strengthening DSA & problem-solving skills
+
+👯 Open to Collaborate On
+
+React-based frontend projects & dashboards
+
+Beginner-friendly ML / Data Science projects
+
+Python automation & API-driven applications
+
+Open-source projects for college students
+
+🤝 Looking for Help With
+
+Machine learning concepts & model optimization
+
+Backend integration for full-stack applications
+
+Research paper writing & publication
+
+🌱 Currently Learning
+
+Machine Learning fundamentals
+
+NumPy, Pandas, Scikit-learn
+
+Text feature extraction (TF-IDF, vectorizers)
+
+Advanced React patterns & best practices
+
+💬 Ask Me About
+
+Frontend development (HTML, CSS, JavaScript, React)
+
+Python basics & API data extraction
+
+Data analysis with Pandas
+
+Beginner ML concepts
 
 
 ## 🌐 Socials:
