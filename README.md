@@ -1,54 +1,89 @@
-💫 About Me
+<h1 align="center">Hi 👋, I'm Aishwary Vansh</h1>
+<h3 align="center">B.Tech Computer Science Student | ML & Full Stack Developer</h3>
 
-B.Tech Computer Science Engineering (2024–2028) student with hands-on experience in Python, Machine Learning, and Frontend Web Development. Passionate about building practical projects, improving problem-solving skills, and collaborating on meaningful tech solutions.
+---
 
-🔭 Currently Working On
+## 👨‍💻 About Me
 
-Python projects for API data extraction & analysis
+🎓 B.Tech in Computer Science Engineering (2024–2028)
+🏫 IIIT Sri City
 
-Beginner ML projects (text-based stress prediction)
+* 💻 Interested in **Machine Learning, Deep Learning, and Full Stack Development**
+* 📊 Passionate about building **AI-powered applications**
+* 🌱 Currently learning **Deep Learning and Graph Neural Networks**
+* 🚀 Exploring **scalable web applications and intelligent systems**
 
-Frontend development using HTML, CSS, JavaScript & React
+---
 
-Strengthening DSA & problem-solving skills
+## 🛠 Technical Toolkit
 
-👯 Open to Collaborate On
+### 💻 Programming Languages
 
-React-based frontend projects & dashboards
+* Python
+* C++
+* SQL
+* JavaScript
 
-Beginner-friendly ML / Data Science projects
+### 🤖 Machine Learning / Data Science
 
-Python automation & API-driven applications
+* Scikit-learn
+* TensorFlow / Keras
+* Pandas
+* NumPy
+* Seaborn
+* Matplotlib
 
-Open-source projects for college students
+### 🌐 Full Stack Development
 
-🤝 Looking for Help With
+* HTML
+* CSS
+* JavaScript
+* Tailwind CSS
+* React (learning)
 
-Machine learning concepts & model optimization
+### 🧰 Tools & Technologies
 
-Backend integration for full-stack applications
+* Git & GitHub
+* Jupyter Notebook
+* VS Code
+* Linux
 
-Research paper writing & publication
+---
 
-🌱 Currently Learning
+## 🚀 Projects
 
-Machine Learning fundamentals
+### 🔹 Fraud Detection using Graph Neural Networks
 
-NumPy, Pandas, Scikit-learn
+* Developed a fraud detection system using graph-based learning
+* Analyzed financial transactions using GNN techniques
+* **Tech Stack:** Python, PyTorch Geometric
 
-Text feature extraction (TF-IDF, vectorizers)
+### 🔹 Face Mask Detection using CNN
 
-Advanced React patterns & best practices
+* Built a deep learning model to classify mask vs no-mask images
+* Implemented CNN for computer vision classification
+* **Tech Stack:** TensorFlow, OpenCV
 
-💬 Ask Me About
+---
 
-Frontend development (HTML, CSS, JavaScript, React)
+## 📊 GitHub Stats
 
-Python basics & API data extraction
+![Aishwary's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishwary-vansh\&show_icons=true\&theme=tokyonight)
 
-Data analysis with Pandas
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwary-vansh\&layout=compact\&theme=tokyonight)
 
-Beginner ML concepts
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/aishwary-vansh
+* GitHub: https://github.com/aishwary-vansh
+* Email: [vanshaishwary08@gmail.com](mailto:vanshaishwary08@gmail.com)
+
+---
+
+⭐ Always open to collaboration on **Machine Learning, AI, and Full Stack projects**.
+
 
 
 ## 🌐 Socials:
