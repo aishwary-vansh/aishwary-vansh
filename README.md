@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Aishwary</h1>
-<h3 align="center">B.Tech Computer Science Student | ML & Full Stack Developer</h3>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aishwary%20Vansh&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+<h1 align="center">Hi 👋, I'm Aishwary</h1>
+<!-- ![](https://komarev.com/ghpvc/?username=aishwary-vansh&label=Profile%20Views&color=0e75b6&style=flat) -->
+<h3 align="center">B.Tech Computer Science Student | ML & Full Stack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Full+Stack+Developer;AI+Explorer;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
+
 
 ## 👨‍💻 About Me
 
@@ -57,12 +62,14 @@
 * Developed a fraud detection system using graph-based learning
 * Analyzed financial transactions using GNN techniques
 * **Tech Stack:** Python, PyTorch Geometric
+* 🔗 Repo: https://github.com/aishwary-vansh/Fraud-Detection-GNN-
 
 ### 🔹 Face Mask Detection using CNN
 
 * Built a deep learning model to classify mask vs no-mask images
 * Implemented CNN for computer vision classification
 * **Tech Stack:** TensorFlow, OpenCV
+* 🔗 Repo: https://github.com/aishwary-vansh/Face-Mask-Detection-CNN
 
 ---
 
