@@ -68,9 +68,9 @@
 
 ## 📊 GitHub Stats
 
-![Aishwary's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishwary-vansh&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aishwary-vansh&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aishwary-vansh&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwary-vansh\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aishwary-vansh&layout=compact&theme=tokyonight)
 
 ---
 
