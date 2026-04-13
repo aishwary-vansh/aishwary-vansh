@@ -1,75 +1,66 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aishwary%20Vansh&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-<h1 align="center">Hi 👋, I'm Aishwary</h1>
-<!-- ![](https://komarev.com/ghpvc/?username=aishwary-vansh&label=Profile%20Views&color=0e75b6&style=flat) -->
-<h3 align="center">B.Tech Computer Science Student | ML & Full Stack Developer</h3>
+
+<h1 align="center">Hi 👋, I'm Aishwary Vansh</h1>
+<h3 align="center">Aspiring SDE | Backend & System Design Enthusiast | B.Tech CSE</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Full+Stack+Developer;AI+Explorer;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;System+Design+Learner;Full+Stack+Engineer;Building+Scalable+Systems&center=true&width=500&height=45">
 </p>
 
+---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech in Computer Science Engineering (2024–2028)
-🏫 IIIT Sri City
+🎓 B.Tech Computer Science Engineering (2024–2028)  
+🏫 IIIT Sri City  
 
-* 💻 Interested in **Machine Learning, Deep Learning, and Full Stack Development**
-* 📊 Passionate about building **AI-powered applications**
-* 🌱 Currently learning **Deep Learning and Graph Neural Networks**
-* 🚀 Exploring **scalable web applications and intelligent systems**
+- 💻 Focused on **Backend Development, System Design, and Scalable Systems**
+- ⚙️ Building **production-ready full-stack and backend applications**
+- 📊 Strong interest in **data-driven systems and API design**
+- 🚀 Exploring **distributed systems, caching, and real-time architectures**
 
 ---
 
 ## 🛠 Technical Toolkit
 
 ### 💻 Programming Languages
-
-* Python
-* C++
-* SQL
-* JavaScript
-
-### 🤖 Machine Learning / Data Science
-
-* Scikit-learn
-* TensorFlow / Keras
-* Pandas
-* NumPy
-* Seaborn
-* Matplotlib
-
-### 🌐 Full Stack Development
-
-* HTML
-* CSS
-* JavaScript
-* Tailwind CSS
-* React
-
-### 🧰 Tools & Technologies
-
-* Git & GitHub
-* Jupyter Notebook
-* VS Code
-* Linux
+Python • C++ • JavaScript • SQL  
 
 ---
 
-## 🚀 Projects
+### ⚙️ Backend & Systems
+NestJS • Node.js • FastAPI • REST API Design • JWT Authentication •  
+Role-Based Access Control (RBAC) • API Security • Rate Limiting •  
+Serverless Architecture • Modular Backend Architecture  
 
-### 🔹 Fraud Detection using Graph Neural Networks
+---
 
-* Developed a fraud detection system using graph-based learning
-* Analyzed financial transactions using GNN techniques
-* **Tech Stack:** Python, PyTorch Geometric
-* 🔗 Repo: https://github.com/aishwary-vansh/Fraud-Detection-GNN-
+### 🗄️ Databases & Storage
+PostgreSQL • SQLite • Database Design • Indexing • Query Optimization •  
+Data Modeling • JSON-based Storage  
 
-### 🔹 Face Mask Detection using CNN
+---
 
-* Built a deep learning model to classify mask vs no-mask images
-* Implemented CNN for computer vision classification
-* **Tech Stack:** TensorFlow, OpenCV
-* 🔗 Repo: https://github.com/aishwary-vansh/Face-Mask-Detection-CNN
+### 🌐 Frontend Development
+React • Tailwind CSS • Context API • State Management •  
+Responsive UI Design • Client-Server Communication  
+
+---
+
+### 📊 Data Structures & Core Concepts
+Data Structures & Algorithms • Graph Algorithms •  
+System Design Basics • Operating Systems • DBMS  
+
+---
+
+### 📡 Performance & Scalability
+Caching (Redis - learning) • Pagination & Filtering •  
+Asynchronous Processing • API Optimization  
+
+---
+
+### 🧰 Tools & Technologies
+Git • GitHub • Docker (learning) • Linux • Postman • VS Code    
 
 ---
 
@@ -77,17 +68,14 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aishwary-vansh&theme=tokyonight)
 
-
 ---
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/aishwary-vansh
-
-* GitHub: https://github.com/aishwary-vansh
-
-* Email: [vanshaishwary08@gmail.com](mailto:vanshaishwary08@gmail.com)
+- LinkedIn: https://linkedin.com/in/aishwary-vansh  
+- GitHub: https://github.com/aishwary-vansh  
+- Email: vanshaishwary08@gmail.com  
 
 ---
 
-⭐ Always open to collaboration on **Machine Learning, AI, and Full Stack projects**.
+⭐ Interested in **Backend Engineering, System Design, and Scalable Applications**
