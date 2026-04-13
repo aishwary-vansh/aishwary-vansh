@@ -24,7 +24,7 @@
 ## 🛠 Technical Toolkit
 
 ### 💻 Programming Languages
-Python • C++ • JavaScript • SQL  
+Python • C++ • JavaScript • SQL  • Java
 
 ---
 
