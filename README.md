@@ -24,49 +24,59 @@
 ## 🛠 Technical Toolkit
 
 ### 💻 Programming Languages
-Python • C++ • JavaScript • SQL  • Java
+Python • C++ • JavaScript • SQL • Java  
 
 ---
 
 ### ⚙️ Backend & Systems
-NestJS • Node.js • FastAPI • REST API Design • JWT Authentication •  
-Role-Based Access Control (RBAC) • API Security • Rate Limiting •  
+NestJS • Node.js • FastAPI • REST API Design • JWT Authentication  
+Role-Based Access Control (RBAC) • API Security • Rate Limiting  
 Serverless Architecture • Modular Backend Architecture  
 
 ---
 
 ### 🗄️ Databases & Storage
-PostgreSQL • SQLite • Database Design • Indexing • Query Optimization •  
+PostgreSQL • SQLite • Database Design • Indexing • Query Optimization  
 Data Modeling • JSON-based Storage  
 
 ---
 
 ### 🌐 Frontend Development
-React • Tailwind CSS • Context API • State Management •  
+React • Tailwind CSS • Context API • State Management  
 Responsive UI Design • Client-Server Communication  
 
 ---
 
-### 📊 Data Structures & Core Concepts
-Data Structures & Algorithms • Graph Algorithms •  
-System Design Basics • Operating Systems • DBMS  
+### 📊 Core Concepts
+Data Structures & Algorithms • Graph Algorithms  
+System Design • Operating Systems • DBMS  
 
 ---
 
 ### 📡 Performance & Scalability
-Caching (Redis - learning) • Pagination & Filtering •  
+Caching (Redis - learning) • Pagination & Filtering  
 Asynchronous Processing • API Optimization  
 
 ---
 
 ### 🧰 Tools & Technologies
-Git • GitHub • Docker (learning) • Linux • Postman • VS Code    
+Git • GitHub • Docker (learning) • Linux • Postman • VS Code  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aishwary-vansh&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aishwary-vansh&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwary-vansh&theme=tokyo-night" />
+</p>
 
 ---
 
