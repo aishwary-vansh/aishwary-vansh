@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aishwary%20Vansh&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI%20%7C%20ML%20%7C%20NLP%20%7C%20Backend%20Systems&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aishwary%20Vansh&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&descAlignY=60&descSize=18" />
 
 <h1 align="center">Hi 👋, I'm Aishwary Vansh</h1>
 
