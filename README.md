@@ -52,12 +52,6 @@ NestJS • FastAPI • Node.js • REST APIs • JWT Authentication • PostgreS
 React.js • Vite • Tailwind CSS • HTML5 • CSS3 • Responsive Design
 </p>
 
-### 🤖 AI / NLP / RAG
-
-<p>
-Retrieval-Augmented Generation (RAG) • FAISS • Semantic Search • LLM Integration • OpenRouter • Transformers • NLP • Sentence Embeddings • Information Retrieval
-</p>
-
 ### 📈 Machine Learning
 
 <p>
@@ -127,6 +121,6 @@ Data Structures & Algorithms • Object-Oriented Programming • Operating Syste
 
 ### ⭐ Interests
 
-Software Engineering • Backend Development • Full-Stack Systems • NLP • Information Retrieval • RAG • AI Applications • Time-Series Learning • Open Source
+Software Engineering • Backend Development • Full-Stack Systems • AI Applications • Time-Series Learning • Open Source
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
